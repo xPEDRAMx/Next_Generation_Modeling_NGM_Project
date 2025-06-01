@@ -46,7 +46,7 @@ import matplotlib.animation as animation
 # 1) GLOBAL SETTINGS & PATHS
 ##############################################################################
 
-CSV_PATH = r"/Users/TBP/Desktop/SF/Dynamic_adj/Third_Generation_Simulation_Data__TGSIM__Foggy_Bottom_Trajectories.csv"
+CSV_PATH = r'/Third_Generation_Simulation_Data__TGSIM__Foggy_Bottom_Trajectories.csv' # Please adjust accordingly
 # PIX_TO_M is not needed because data is already in meters.
 PEDESTRIAN_CODE = 0  # code used in dataset for pedestrians
 BICYCLE_CODE    = 1  # code used in dataset for bicycles
